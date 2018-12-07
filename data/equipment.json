@@ -1,0 +1,143 @@
+{
+  "equipment": [
+    {
+      "name": "Earring",
+      "price": 88,
+      "img": "earring"
+    },
+    {
+      "name": "Necklace",
+      "price": 120,
+      "img": "necklace"
+    },
+    {
+      "name": "Blue Ring",
+      "price": 70,
+      "img": "blueRing"
+    },
+    {
+      "name": "Cane",
+      "price": 180,
+      "img": "cane"
+    },
+    {
+      "name": "Kite Shield",
+      "price": 630,
+      "img": "kiteShield"
+    },
+    {
+      "name": "Round Shield",
+      "price": 410,
+      "img": "roundShield"
+    },
+    {
+      "name": "Staff",
+      "price": 140,
+      "img": "staff"
+    },
+    {
+      "name": "Wooden Bow",
+      "price": 200,
+      "img": "woodenBow"
+    },
+    {
+      "name": "Long Sword",
+      "price": 310,
+      "img": "longSword"
+    },
+    {
+      "name": "Iron Armor",
+      "price": 700,
+      "img": "ironArmor"
+    },
+    {
+      "name": "Boots",
+      "price": 200,
+      "img": "boots"
+    },
+    {
+      "name": "Light Outfit",
+      "price": 280,
+      "img": "lightOutfit"
+    },
+    {
+      "name": "Cape",
+      "price": 150,
+      "img": "cape"
+    },
+    {
+      "name": "Spear",
+      "price": 300,
+      "img": "spear"
+    },
+    {
+      "name": "Halberd",
+      "price": 320,
+      "img": "halberd"
+    }
+  ],
+  "potion": [
+    {
+      "name": "HP Potion",
+      "price": 50,
+      "img": "hpPotion"
+    },
+    {
+      "name": "HP Potion (Large)",
+      "price": 100,
+      "img": "hpPotionLarge"
+    },
+    {
+      "name": "MP Potion",
+      "price": 80,
+      "img": "mpPotion"
+    },
+    {
+      "name": "MP Potion (Large)",
+      "price": 130,
+      "img": "mpPotionLarge"
+    },
+    {
+      "name": "Protection Potion",
+      "price": 170,
+      "img": "protectionPotion"
+    },
+    {
+      "name": "Healing Potion",
+      "price": 150,
+      "img": "healingPotion"
+    },
+    {
+      "name": "Battle Potion",
+      "price": 200,
+      "img": "battlePotion"
+    }
+  ],
+  "etc": [
+    {
+      "name": "Phoenix Feather",
+      "price": 1000,
+      "img": "phoenixFeather"
+    },
+    {
+      "name": "Skill Book",
+      "price": 800,
+      "img": "book"
+    },
+    {
+      "name": "Scroll",
+      "price": 100,
+      "img": "scroll"
+    },
+    {
+      "name": "Torch",
+      "price": 10,
+      "img": "torch"
+    },
+    {
+      "name": "Map",
+      "price": 120,
+      "img": "map"
+    }
+  ]
+}

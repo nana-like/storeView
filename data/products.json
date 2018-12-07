@@ -1,0 +1,167 @@
+{
+  "equipment": [{
+      "name": "Earring",
+      "price": 88,
+      "img": "earring",
+      "category": "equipment"
+    },
+    {
+      "name": "Necklace",
+      "price": 120,
+      "img": "necklace",
+      "category": "equipment"
+    },
+    {
+      "name": "Blue Ring",
+      "price": 70,
+      "img": "blueRing",
+      "category": "equipment"
+    },
+    {
+      "name": "Cane",
+      "price": 180,
+      "img": "cane",
+      "category": "equipment"
+    },
+    {
+      "name": "Kite Shield",
+      "price": 630,
+      "img": "kiteShield",
+      "category": "equipment"
+    },
+    {
+      "name": "Round Shield",
+      "price": 410,
+      "img": "roundShield",
+      "category": "equipment"
+    },
+    {
+      "name": "Staff",
+      "price": 140,
+      "img": "staff",
+      "category": "equipment"
+    },
+    {
+      "name": "Wooden Bow",
+      "price": 200,
+      "img": "woodenBow",
+      "category": "equipment"
+    },
+    {
+      "name": "Long Sword",
+      "price": 310,
+      "img": "longSword",
+      "category": "equipment"
+    },
+    {
+      "name": "Iron Armor",
+      "price": 700,
+      "img": "ironArmor",
+      "category": "equipment"
+    },
+    {
+      "name": "Boots",
+      "price": 200,
+      "img": "boots",
+      "category": "equipment"
+    },
+    {
+      "name": "Light Outfit",
+      "price": 280,
+      "img": "lightOutfit",
+      "category": "equipment"
+    },
+    {
+      "name": "Cape",
+      "price": 150,
+      "img": "cape",
+      "category": "equipment"
+    },
+    {
+      "name": "Spear",
+      "price": 300,
+      "img": "spear",
+      "category": "equipment"
+    },
+    {
+      "name": "Halberd",
+      "price": 320,
+      "img": "halberd",
+      "category": "equipment"
+    }
+  ],
+  "potion": [{
+      "name": "HP Potion",
+      "price": 50,
+      "img": "hpPotion",
+      "category": "potion"
+    },
+    {
+      "name": "HP Potion (Large)",
+      "price": 100,
+      "img": "hpPotionLarge",
+      "category": "potion"
+    },
+    {
+      "name": "MP Potion",
+      "price": 80,
+      "img": "mpPotion",
+      "category": "potion"
+    },
+    {
+      "name": "MP Potion (Large)",
+      "price": 130,
+      "img": "mpPotionLarge",
+      "category": "potion"
+    },
+    {
+      "name": "Protection Potion",
+      "price": 170,
+      "img": "protectionPotion",
+      "category": "potion"
+    },
+    {
+      "name": "Healing Potion",
+      "price": 150,
+      "img": "healingPotion",
+      "category": "potion"
+    },
+    {
+      "name": "Battle Potion",
+      "price": 200,
+      "img": "battlePotion",
+      "category": "potion"
+    }
+  ],
+  "etc": [{
+      "name": "Phoenix Feather",
+      "price": 1000,
+      "img": "phoenixFeather",
+      "category": "etc"
+    },
+    {
+      "name": "Skill Book",
+      "price": 800,
+      "img": "book",
+      "category": "etc"
+    },
+    {
+      "name": "Scroll",
+      "price": 100,
+      "img": "scroll",
+      "category": "etc"
+    },
+    {
+      "name": "Torch",
+      "price": 10,
+      "img": "torch",
+      "category": "etc"
+    },
+    {
+      "name": "Map",
+      "price": 120,
+      "img": "map",
+      "category": "etc"
+    }
+  ]
+}

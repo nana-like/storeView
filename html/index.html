@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <!-- <script src="../js/semantic.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css"> -->
+</head>
+
+<body>
+
+  <div id="header">
+    <h1 class="logo">Anne's Shop</h1>
+    <div id="nav">
+      <button class="nav-item">Log in</button>
+    </div>
+  </div>
+  <div id="content">
+    <div id="category">
+      <div class="category-top">
+        <button class="category-top-item">Cart</button>
+        <button class="category-top-item">My Page</button>
+      </div>
+      <div class="category-menu">
+        <button class="category-menu-item active" data-category="all">All</button>
+        <button class="category-menu-item" data-category="equipment">Equipment</button>
+        <button class="category-menu-item" data-category="potion">Potion</button>
+        <button class="category-menu-item" data-category="etc">Etc.</button>
+      </div>
+    </div>
+    <div id="main">
+      <div class="filter-container">
+        <div class="title">Sort By </div>
+        <button class="filter-button active" data-filter="name-asc" data-title="Name (A - Z)">Name (A - Z)</button>
+        <button class="filter-button" data-filter="name-desc" data-title="Name (Z - A)">Name (Z - A)</button>
+        <button class="filter-button" data-filter="price-asc" data-title="Price ($ - $$$)">Price ($ - $$$)</button>
+        <button class="filter-button" data-filter="price-desc" data-title="Price ($$$ - $)">Price ($$$ - $)</button>
+      </div>
+      <div class="item-container">
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <div id="modal" class="modal-login">
+    <div class="formArea">
+      <form name="loginForm" method="post">
+        <strong class="modal-title">Welcome!</strong>
+        <div class="input-container">
+          <input type="email" name="loginEmail" class="input" placeholder="Email Address">
+          <p class="error"></p>
+        </div>
+        <div class="input-container">
+          <input type="password" name="loginPassword" class="input" placeholder="Password">
+          <p class="error"></p>
+        </div>
+        <input type="submit" class="btn-submit" value="Log in">
+      </form>
+      <button id="btn-close-modal" class="btn-close-modal"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+          viewBox="0 0 18 18">
+          <path fill="#FFF" fill-rule="evenodd" d="M10.382 9l7.332-7.332A.977.977 0 1 0 16.332.286L9 7.618 1.668.286A.977.977 0 1 0 .286 1.668L7.618 9 .286 16.332a.977.977 0 1 0 1.382 1.382L9 10.382l7.332 7.332a.974.974 0 0 0 1.382 0 .977.977 0 0 0 0-1.382L10.382 9" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="../js/modal.js"></script>
+  <script src="../js/product.js"></script>
+  <script src="../js/addToCart.js"></script>
+</body>
+
+</html>
